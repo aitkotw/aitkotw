@@ -43,9 +43,9 @@
 
 ### **💼 Experience**
 
-#### **🚀 Mai Labs | Full-Stack Developer (Blockchain & Web3)**
+#### **🚀 Full-Stack Developer (Blockchain & Web3)**
 
-- Developed **Kalp Studio and Marketplace**, a blockchain-powered platform
+- Developed **NFT Marketplace**, a blockchain-powered platform
 - Designed and implemented **Web3 social authentication** with decentralization at its core
 - Integrated **wallet connections, smart contract compilation, and transaction execution**
 - Built a **centralized email/SMS gateway** for internal and external communication
@@ -64,15 +64,15 @@
 ### **📊 GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aitkotw&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aitkotw&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### **📫 Get in Touch**
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+📧 Email: [aitkotw@gmail.com](mailto:aitkotw@gmail.com)  
 🌐 Portfolio: [digitaldebugger.com](https://digitaldebugger.com)  
 🔗 LinkedIn: [linkedin.com/in/aitkotw](https://www.linkedin.com/in/aitkotw/)
 
